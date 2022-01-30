@@ -23,9 +23,7 @@ import styles from "./Button.module.css";
 //     box-shadow: 0 0 8px rgba(0, 0, 0, 0.26);
 //   }
 
-//   @media (min-width: 768px) {
-//     width: auto;
-//   }
+//  
 // `;
 
 const Button = props => {
